@@ -7,7 +7,7 @@ Basic Quiz using HTML, CSS And JAVASCRIPT
 - CSS
 - JAVASCRIPT
 
-###How it works
+### How it works
 
 Image 1: OUTPUT
 <div>
